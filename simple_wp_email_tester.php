@@ -24,6 +24,7 @@ function register_seq_simple_wp_email_tester_page() {
 add_action( 'admin_menu', 'register_seq_simple_wp_email_tester_page' );
 
 // Display the submenu page
+
 function seq_simple_wp_email_tester() {
     ?>
     <div class="wrap">
@@ -115,7 +116,7 @@ function seq_simple_wp_email_tester() {
     </script>
     <style>
     .form-group {
-        margin: 15px 0;
+        margin: 15px 1;
     }
     .form-group label {
         display: block;
@@ -128,7 +129,7 @@ function seq_simple_wp_email_tester() {
     .form-group input[type="file"] {
         width: 100%;
         max-width: 400px;
-        padding: 5px;
+        padding: 6px;
     }
     </style>
     <?php 
