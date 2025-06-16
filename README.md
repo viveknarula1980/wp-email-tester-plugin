@@ -1,4 +1,4 @@
-=== Simple WP Email Tester ===
+                                                  === Simple WP Email Tester ===
 
 Contributors:      SeQuere Technologies
 Requires at least: 6.3
